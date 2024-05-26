@@ -18,9 +18,9 @@ portanto, ele retornou um aviso indicando que o usuário havia clicado.</p>
 <img src="/imagens/imagem3.png" alt="segunda-imagem">
 <hr>
 <br>
-<h6>Já aqui, o usuário clicou em "deletar", logo, retornando uma mensagem
+<h5>Já aqui, o usuário clicou em "deletar", logo, retornando uma mensagem
 diferente da anterior, neste caso o site lhe perguntará se deseja realmente
-apagar o card em questão, ou, se deseja cancelar o requerimento.</h6>
+apagar o card em questão, ou, se deseja cancelar o requerimento.</h5>
 <br>
 <p>★ Exemplos do resultado:</p>
 <img src="/imagens/imagem4.png" alt="segunda-imagem">
