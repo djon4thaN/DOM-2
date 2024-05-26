@@ -7,7 +7,7 @@ novas predefinições pelo JS. Inicialmente temos algo como:</p>
 <img src="/imagens/imagem.png" alt="primeira-imagem">
 <hr>
 <br>
-<p>★ Nesta segunda imagem podemos os cards estilizados, aqui eles foram
+<p>★ Nesta segunda imagem podemos ver os cards estilizados, aqui eles foram
 alterados a partir do JavaScript com trechos de código que me permitem
 adicionar atributos novos a eles e textos também.</p>
 <img src="/imagens/imagem2.png" alt="segunda-imagem">
