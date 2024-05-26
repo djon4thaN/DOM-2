@@ -20,8 +20,7 @@ portanto, ele retornou um aviso indicando que o usuário havia clicado.</p>
 <br>
 <p>★ Já aqui, o usuário clicou em "deletar", logo, retornando uma mensagem
 diferente da anterior, neste caso o site lhe perguntará se deseja realmente
-apagar o card em questão, ou, se deseja cancelar o requerimento.</p>
-￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+apagar o card em questão, ou, se deseja cancelar o requerimento.<br>￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</p>
 <br>
 <br>
 <p>★ Exemplos do resultado:</p>
