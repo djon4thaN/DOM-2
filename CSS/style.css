@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #2b385b;
+}
+
+#container {
+  width: 100vw;
+  height: 50vh;
+  position: relative;
+  top: calc(50% - 25vh);
+  text-align: center;
+}
+
+#card {
+  width: 150px;
+  height: 200px;
+  padding: 30px;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 30px;
+  box-shadow: 1px 2px 5px 1px rgba(0, 0, 0, 0.68);
+}
+#cardOrange {
+  width: 150px;
+  height: 200px;
+  padding: 30px;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 30px;
+  box-shadow: 1px 2px 5px 1px rgba(0, 0, 0, 0.68);
+  background-color: rgb(255, 111, 0);
+}
+
+#newTitle{
+  color: #2b385b;
+  position: relative;
+  top: 25px;
+}
+#newDescription{
+  color: white;
+  position: relative;
+  top: 60px;
+  font-size: small;
+}
+#btnGreen{
+  width: 58px;
+  height: 38px;
+  border-radius: 23%;
+  color: white;
+  background-color: rgb(0, 133, 0);
+  border-style: inherit;
+  position: relative;
+  top: 10vh;
+  right: 2px;
+}
+#btnRed{
+  width: 62px;
+  height: 38px;
+  border-radius: 22%;
+  color: white;
+  background-color: rgb(160, 17, 17);
+  border-style: inherit;
+  position: relative;
+  top: 10vh;
+  left: 2px;
+}
