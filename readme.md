@@ -1,4 +1,4 @@
-<h2>        Trabalho manipulação de DOM</h2>
+<h2>          Trabalho manipulação de DOM</h2>
 <br>
 <p>★ Aqui iniciamos a primeira atividade do segundo trabalho,
 nela veremos um poucos mais do que pude realizar com manipulação de DOM em
